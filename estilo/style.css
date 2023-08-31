@@ -50,7 +50,7 @@ section{
     line-height: 2em;
     padding-left: 30px;
     font-family: var(--font003);
-    font-size: 2vw;
+    font-size: ;
   
 }
 section.normal{
@@ -65,11 +65,9 @@ section.imagem{
 
 }
 section.imagem > p {
-   display: inline-block;
-   padding: 10px;
-   background-color: rgba(0, 0, 0, 0.479);
-   
-   
+    display: inline-block;
+    padding: 10px;
+    background-color: rgba(0, 0, 0, 0.479);
 }
 section#img01{
   background-image: url(../imagens/background002.jpg);
