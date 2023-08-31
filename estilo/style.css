@@ -42,6 +42,7 @@ a:hover{
 }
 section > p {
     padding-bottom: 2em;
+    text-decoration: none;
 }
 section{
     padding-top: 10vh;
@@ -68,17 +69,16 @@ section.imagem > p {
    padding: 10px;
    background-color: rgba(0, 0, 0, 0.479);
    
+   
 }
 section#img01{
   background-image: url(../imagens/background002.jpg);
   background-position: right center;
-  text-shadow: 1px 1px 0px;
   background-size: cover;
 }
 section#img02{
  background-image: url(../imagens/background001.jpg);
  background-position: center center;
- text-shadow: 1px 1px 0px;
   background-size: cover;
 }
 footer{
