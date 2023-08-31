@@ -86,3 +86,10 @@ footer{
     padding: 10px;
     background-size: 1vw;
 }
+footer > p{
+    color: white;
+}
+footer a:hover{
+    color: blue;
+    text-decoration: none;
+}
